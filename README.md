@@ -6,7 +6,6 @@ The project combines a FastAPI backend with a React frontend to present reconnai
 Features:
 
 Domain reconnaissance
-
 DNS information
 WHOIS lookup
 SSL certificate inspection
@@ -15,13 +14,17 @@ Technology fingerprinting
 Subdomain discovery
 Scan history
 PDF report generation
-Tech Stack
-Backend
+
+Tech Stack:
+Backend-
+
 Python
 FastAPI
 SQLite
 SQLAlchemy
-Frontend
+
+Frontend-
+
 React
 Vite
 Tailwind CSS
