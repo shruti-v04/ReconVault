@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 50">
+  <defs>
+    <linearGradient id="logoGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#06b6d4"/>
+      <stop offset="100%" style="stop-color:#10b981"/>
+    </linearGradient>
+  </defs>
+  <path d="M25 5 L45 15 L45 35 L25 45 L5 35 L5 15 Z" fill="none" stroke="url(#logoGrad)" stroke-width="2"/>
+  <circle cx="25" cy="25" r="8" fill="url(#logoGrad)" opacity="0.8"/>
+  <circle cx="25" cy="25" r="4" fill="#0a0e17"/>
+  <text x="55" y="32" font-family="Inter, sans-serif" font-weight="700" font-size="22" fill="#ffffff">Recon</text>
+  <text x="120" y="32" font-family="Inter, sans-serif" font-weight="700" font-size="22" fill="url(#logoGrad)">Vault</text>
+</svg>
